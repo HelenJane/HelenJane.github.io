@@ -1,4 +1,4 @@
 auto:true
-markdown:kramdown
+markdown:rdiscount
 title:Helen's blog
 baseurl:/HelenJane.github.io/
