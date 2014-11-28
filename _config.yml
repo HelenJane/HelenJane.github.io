@@ -1,0 +1,4 @@
+auto:true
+markdown:kramdown
+title:Helen's blog
+baseurl:/blog/
