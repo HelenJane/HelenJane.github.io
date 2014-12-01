@@ -2,3 +2,4 @@ auto:true
 markdown:rdiscount
 title:Helen's blog
 baseurl:/HelenJane.github.io/
+css:true
