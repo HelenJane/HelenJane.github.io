@@ -3,3 +3,4 @@ markdown:rdiscount
 title:Helen's blog
 baseurl:/HelenJane.github.io/
 css:true
+feed:_posts/disqus.html
